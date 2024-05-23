@@ -3,4 +3,5 @@
 - I will be updating this repo with my publicly disclosed Smart Contract Audits!
 
 `Happy Hacking :)`
+
 [Reference](https://github.com/gkrastenov/audits)
